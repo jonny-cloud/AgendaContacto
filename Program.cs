@@ -35,6 +35,9 @@ class Program
                 case 0: Console.WriteLine("👋 Saliendo..."); break;
                 default: Console.WriteLine("❌ Opción inválida."); break;
             }
+            //mejora Luis
+            Console.WriteLine("\nPresione ENTER para continuar...");
+            Console.ReadLine();
         }
     }
 }
