@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AgendaContacto": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
